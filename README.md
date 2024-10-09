@@ -1,4 +1,5 @@
 *******************************Spam Detection using Naive Bayes***************************
+
 Overview
 This project implements a Spam Detection System using the Naive Bayes algorithm. The model classifies emails or messages as either spam or not spam based on the frequency of certain words or features. The dataset contains labeled messages, and the model uses the Naive Bayes algorithm to learn from these labels and predict the spam likelihood for new messages.
 
