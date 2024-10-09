@@ -21,7 +21,9 @@ numpy
 nltk
 Evaluation Metrics
 
-Accuracy: 96.79% - The model correctly classifies messages as spam or not spam with high precision.
+Accuracy: 
+
+96.79% - The model correctly classifies messages as spam or not spam with high precision.
 Precision: Measures the proportion of correctly identified spam messages.
 Recall: Measures the ability to detect all spam messages.
 F1 Score: The harmonic mean of precision and recall.
